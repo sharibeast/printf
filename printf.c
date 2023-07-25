@@ -1,6 +1,4 @@
 #include "main.h"
-#include <stdio.h>
-#include <unistd.h>
 
 /**
  * print_buffer - Prints the contents of the buffer if it exist
