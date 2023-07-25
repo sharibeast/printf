@@ -11,6 +11,10 @@
 #define FLAG_ZERO 4
 #define FLAG_HASH 8
 #define FLAG_SPACE 16
+
+#define S_LONG 2
+#define S_SHORT 1
+
 int _printf(const char *format, ...);
 
 #endif
