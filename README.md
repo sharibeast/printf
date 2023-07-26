@@ -1,6 +1,6 @@
 
 # ALX PRINTF ASSIGNMENT
-
+The printf() function prints output to stdout, according to format and other arguments passed to printf().
 
 
 ## Authors
